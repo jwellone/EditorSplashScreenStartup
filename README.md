@@ -7,8 +7,9 @@
 
 
 # EditorSplashScreenStartup
-Spash screen can be played when running the editor.
+Editor Extension for Unity: Enables playback of splash screens within the editor.
 
+Note: In the context of Unity, a "splash screen" refers to the initial loading screen or logo that appears when launching a game or application.
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## Getting Started
