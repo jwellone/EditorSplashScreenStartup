@@ -10,6 +10,7 @@
 Editor Extension for Unity: Enables playback of splash screens within the editor.
 
 Note: In the context of Unity, a "splash screen" refers to the initial loading screen or logo that appears when launching a game or application.
+
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## Getting Started
@@ -17,6 +18,8 @@ This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 - ProjectSettings > jwellone > EditorSplashScreenStartup choose.
 - Check Start when editor is running.
 - Run Editor, it will play from Splash Screen.
+
+![EditorSplashScreenStartup](https://github.com/jwellone/EditorSplashScreenStartup/assets/85072161/0d4df379-da09-45c2-94f5-185a81e97013)
 
 ## Authors
 Developer:[Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
